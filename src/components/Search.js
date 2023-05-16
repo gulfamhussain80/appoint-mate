@@ -62,3 +62,5 @@ const Search = ({query, onQueryChange, orderBy, sortBy, onSortByChange, onOrderB
 }
 
 export default Search;
+
+// A minimal comment added 
