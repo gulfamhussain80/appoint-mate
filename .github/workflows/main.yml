@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Appoint-mate Repository
+      - name: Appoint-Mate Repository
         uses: actions/checkout@v2
 
       - name: Set up Node.js
